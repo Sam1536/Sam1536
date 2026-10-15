@@ -2,7 +2,9 @@
 
 ### Analista de Dados 📊 || Programador de Jogos 🎮 || Certificado Microsoft PL-300 ☁️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-mariano-melo-17653b220/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-mariano-melo-17653b220/)   [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=flat&logo=googlechrome&logoColor=white)](https://sites.google.com/view/portifoliosamuelmarianomelo/início)
+
 
 ---
 
@@ -39,13 +41,13 @@ Analista de Dados e Programador de Jogos, certificado pela Microsoft (PL-300). T
 
 Dashboards desenvolvidos como portfólio, cada um com seu próprio README:
 
-- 🛒 [Dashboard de Vendas](LINK_DO_REPOSITORIO)
-- 🎧 [Dashboard SAC](LINK_DO_REPOSITORIO)
-- 💰 [Dashboard DRE (orçado x realizado)](LINK_DO_REPOSITORIO)
-- 👥 [Dashboard de RH](LINK_DO_REPOSITORIO)
-- 📦 [Dashboard de Compras](LINK_DO_REPOSITORIO)
-- 💸 [Dashboard de Fluxo de Caixa](LINK_DO_REPOSITORIO)
-- 📈 [Dashboard de Carteira de Investimentos](LINK_DO_REPOSITORIO)
+- 🛒 [Dashboard de Vendas](https://github.com/Sam1536/Dashboard_vendas)
+- 🎧 [Dashboard Comercial](https://github.com/Sam1536/Dashboard_Comercial)
+- 💰 [Dashboard Financeiro de Banco](https://github.com/Sam1536/Dashboard_Financeiro_Bancos)
+- 👥 [Dashboard de Vendas em Equipe](https://github.com/Sam1536/Dashboard_Vendas_Equipe)
+- 📦 [Dashboard de Sac](https://github.com/Sam1536/Dashboard_Sac)
+- 💸 [Dashboard de RH](https://github.com/Sam1536/Dashboard_RH_02)
+- 📈 [Dashboard de DRE](https://github.com/Sam1536/Dashboard_DRE_Demonstra--o_Resultado_Exerccio)
 
 ---
 
