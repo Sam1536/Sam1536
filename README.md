@@ -1,8 +1,8 @@
-# 👋 Olá, eu sou [Seu Nome Completo]
+# 👋 Olá, eu sou Samuel Mariano Melo
 
 ### Analista de Dados 📊 || Programador de Jogos 🎮 || Certificado Microsoft PL-300 ☁️
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-mariano-melo-17653b220/)
 
 ---
 
@@ -23,6 +23,7 @@ Analista de Dados e Programador de Jogos, certificado pela Microsoft (PL-300). T
 ### 🎓 Certificações
 
 - ✅ PL-300: Microsoft Power BI Data Analyst
+- ✅ C# Completo: Programação Orientada a Objetos + Projetos
 
 ---
 
@@ -55,4 +56,8 @@ Dashboards desenvolvidos como portfólio, cada um com seu próprio README:
 
 ---
 
-📫 [Como me encontrar](mailto:SEU_EMAIL)
+📫 [Como me encontrar](mailto:Samucatop10@hotmail.com)
+
+
+
+
