@@ -58,6 +58,8 @@ Dashboards desenvolvidos como portfólio, cada um com seu próprio README:
 
 📫 [Como me encontrar](mailto:Samucatop10@hotmail.com)
 
+<img src="Attack%20On%20Titan%20Eren%20Jaeger%20GIF.gif" width="500" alt="Eren Jaeger">
+
 
 
 
